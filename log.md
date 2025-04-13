@@ -26,3 +26,11 @@ já tinha ideia de como seria, por exemplo criar o DTO para mostrar apenas os da
 
 **Link to work:** [VollMed-API](https://github.com/PJJunio/vollmed-api)
 
+### Day 2:
+
+**Today's Progress**: Bom hoje não teve muito código, estou na casa do meu amigo usando um notebook emprestado para fazer a aula de hoje. Não teve muito código, apenas fiz alguns testes com a função pageble do JPA, adicionando o pageble a classe que faz as listagens e declarando ela com um nome escolhido, podemos mudar também o método list para page, já que queremos que receba do front uma requisição para mostrar dados de uma página especifica. Com algumas módificações no return do método, para que o findall para mostar os dados do método paginação (nome definido por mim para o método pageble) e removendo o strem pois o find all já retorna o page e o método page já tem o método map diretamente nele e nem o tolist pois já converte automaticamente.
+No caso do Backend, se especificarmos no método GET em frente a url ?size=1&page=2, ele vai mostar 1 registro da página 2 do banco de dados. 
+
+**Thoughts:** Bom, foi bem no limite mas estamos aqui, amanhã vou tentar codar um pouco mais para compensar, ou se duvidar entro na madrugada para brincar um pouco em alguns projetos kkkkk.
+
+**Link to work:** [VollMed-API](https://github.com/PJJunio/vollmed-api)
