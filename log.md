@@ -34,3 +34,15 @@ No caso do Backend, se especificarmos no método GET em frente a url ?size=1&pag
 **Thoughts:** Bom, foi bem no limite mas estamos aqui, amanhã vou tentar codar um pouco mais para compensar, ou se duvidar entro na madrugada para brincar um pouco em alguns projetos kkkkk.
 
 **Link to work:** [VollMed-API](https://github.com/PJJunio/vollmed-api)
+
+### Day 3:
+
+**Today's Progress**: Hoje no momento que cheguei em casa fui terminar o módulo de GET do curso de Spring, aprendemos como podemos mostrar dados de páginas especificas fazendo uma optimização do código e mostrando
+apenas dados importantes e relevantes para a atual situação, foi utilizado a classe Pageable para essa atividade, apenas chamando essa classe na urlcom "http://localhost8080/medicos?sort=crm,desc&size=2&page=1"
+ele vai filtrar pelo CRM do médico, mostrar apenas 10 tabelas da página 1, mas claro que podemos personalizar que para caso for chamado sem nenhuma especificação, mostrar dados específicos, utilizando a tag
+@PageableDefault(size = 10, sort = {"nome"} dentro da classe criada, como mostrado no exemplo, podemos personalizar esses dados.
+
+**Thoughts:** Bom, hoje encerrei o modulo de GET, amanhã vou adiantar o sobre DELETE e PUT que eu já deveria ter terminado, até o momento SpringBoot está sendo bem facil e estou conseguindo me adaptar bem,
+logo logo vou aplicar em projetos meus.
+
+**Link to work:** [VollMed-API](https://github.com/PJJunio/vollmed-api)
