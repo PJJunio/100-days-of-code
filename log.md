@@ -45,4 +45,11 @@ ele vai filtrar pelo CRM do médico, mostrar apenas 10 tabelas da página 1, mas
 **Thoughts:** Bom, hoje encerrei o modulo de GET, amanhã vou adiantar o sobre DELETE e PUT que eu já deveria ter terminado, até o momento SpringBoot está sendo bem facil e estou conseguindo me adaptar bem,
 logo logo vou aplicar em projetos meus.
 
-**Link to work:** [VollMed-API](https://github.com/PJJunio/vollmed-api)
+
+### Day 4:
+
+**Today's Progress**: Hoje não passei muito tempo codando em si, me reuni com o pessoal para resolver bugs que estavam acontecendo no projeto que tomou quase todo meu tempo, mas não achei ruim, porque eu  aprendi
+muita coisa resolvendo esses bugs e inclusive teve muita coisa básica que acabei esquecendo, mas vida que segue, vivendo e aprendendo.
+
+**Thoughts:** Não achei o dia de hoje chato, foi interessante, resolver bugs ajudam no aprendizado também querendo ou não kkkk.
+
