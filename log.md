@@ -53,3 +53,13 @@ muita coisa resolvendo esses bugs e inclusive teve muita coisa básica que acabe
 
 **Thoughts:** Não achei o dia de hoje chato, foi interessante, resolver bugs ajudam no aprendizado também querendo ou não kkkk.
 
+### Day 5:
+
+**Today's Progress**: Bom, o dia de hoje aprendi bastante coisa, terminei o módulo de SpringBoot que já era para ter terminado a bastante tempo mas finalmente terminei, apenas finalizei conceitos de PUT e DELETE na API,
+logo logo vou aplicar em um desafio da RoadmapSh, sem spoilers por enquanto, depois disso fui resolver um bug em uma api que estava com credenciais expostas, como não fazia ideia de como eu faria, pesquisei sobre .env,
+bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só esperar para ver se fiz cagada kkkk.
+
+**Thoughts:** O dia de hoje foi bem agradavel, aprendi muita coisa e fiz bastante coisa, logo logo terei novidades sobre algo novo que consegui, sem muitos spoilers kkkkk.
+
+**Link to work:** [VollMed-API](https://github.com/PJJunio/vollmed-api)
+
