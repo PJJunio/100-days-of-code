@@ -63,3 +63,8 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 
 **Link to work:** [VollMed-API](https://github.com/PJJunio/vollmed-api)
 
+### Day 6:
+
+**Today's Progress**: Olá novamente, hoje não fiz muita coisa por conta que tive que vir para a casa dos meus pais e não tenho notebook, mas antes de sair de casa fiz algumas alterações no código do meu projeto, apenas refatorei e adicionei algumas validações, coisa básica, ainda ficaram coisas pendentes mas vou dar meus pulos para conseguir codar.
+
+**Thoughts:** Vou considerar esse feriado como um desafio para fazer eu manter a streak, vai ser difícil mais vou dar meus pulos, nem que eu precise estudar HTMl, PHP ou qualquer coisa novamente kkkkk.
