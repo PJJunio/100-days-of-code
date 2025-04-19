@@ -68,3 +68,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Olá novamente, hoje não fiz muita coisa por conta que tive que vir para a casa dos meus pais e não tenho notebook, mas antes de sair de casa fiz algumas alterações no código do meu projeto, apenas refatorei e adicionei algumas validações, coisa básica, ainda ficaram coisas pendentes mas vou dar meus pulos para conseguir codar.
 
 **Thoughts:** Vou considerar esse feriado como um desafio para fazer eu manter a streak, vai ser difícil mais vou dar meus pulos, nem que eu precise estudar HTMl, PHP ou qualquer coisa novamente kkkkk.
+
+### Day 7:
+
+**Today's Progress**: Olá novamente, 7° dia em, bom, a log de hoje vai ser curta, como dito na anterior não estou em minha casa e por consequência, não tenho nenhum computador para codar, então foquei em fixar conteúdos, fiquei assistindo aulas de GET, PUT, POST e etc para fixar melhor o conteúdo, sinceramente se eu não conseguir nenhum computador até amanhã, vou ter que brincar com PHP novamente, mundo sóbrio que eu não queria voltar.... brincadeiras da parte kkkk.
+
+**Thoughts:** Bom, o dia não teve muita coisa, preferi ficar com minha família e estudar apenas o necessário para o desafio, simples assim.
