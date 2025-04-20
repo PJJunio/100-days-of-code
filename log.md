@@ -74,3 +74,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Olá novamente, 7° dia em, bom, a log de hoje vai ser curta, como dito na anterior não estou em minha casa e por consequência, não tenho nenhum computador para codar, então foquei em fixar conteúdos, fiquei assistindo aulas de GET, PUT, POST e etc para fixar melhor o conteúdo, sinceramente se eu não conseguir nenhum computador até amanhã, vou ter que brincar com PHP novamente, mundo sóbrio que eu não queria voltar.... brincadeiras da parte kkkk.
 
 **Thoughts:** Bom, o dia não teve muita coisa, preferi ficar com minha família e estudar apenas o necessário para o desafio, simples assim.
+
+### Day 8:
+
+**Today's Progress**: Bom, não consegui um PC e nem me rendi ao PHP, mas me lembrei que tinha um curso de AWS para fazer kkkkk, abri o meu e comecei a assistir as aulas para ver como funcionava, vi apenas as interfaces por enquanto, como funcionava as regiões, locais, capacidade, valores, etc, não me aprofundei muito, enfim, o dia foi apenas isso basicamente, preferi focar mais em aproveitar o feriado e descansar um pouco.
+
+**Thoughts:** Por mais que eu esteja mais ocioso nesse feriado, estou conseguindo dar uma destraida na cabeça e descansar, a próxima semana vai ser cheia querendo ou não kkkkk.
