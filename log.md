@@ -87,4 +87,4 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 
 **Thoughts:** Bom, pretendo ir para casa amanhã mesmo, então vou poder voltar a programar normalmente kkkkk, um dia o descanso tem que acabar né, enfim, dia tranquilo sem muita coisa.
 
-**Link to work:** [Comparador de Planilhas](https://github.com/PJJunio/vollmed-api)
+**Link to work:** [Comparador de Planilhas](https://github.com/PJJunio/comparador-de-planilhas)
