@@ -80,3 +80,11 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Bom, não consegui um PC e nem me rendi ao PHP, mas me lembrei que tinha um curso de AWS para fazer kkkkk, abri o meu e comecei a assistir as aulas para ver como funcionava, vi apenas as interfaces por enquanto, como funcionava as regiões, locais, capacidade, valores, etc, não me aprofundei muito, enfim, o dia foi apenas isso basicamente, preferi focar mais em aproveitar o feriado e descansar um pouco.
 
 **Thoughts:** Por mais que eu esteja mais ocioso nesse feriado, estou conseguindo dar uma destraida na cabeça e descansar, a próxima semana vai ser cheia querendo ou não kkkkk.
+
+### Day 9:
+
+**Today's Progress**: Olá Olá, bom, hoje não como o esperado, n fiz muita coisa, mas pelo menos revisei alguns repositórios meus, alguns exercícios em PHP e Java e principalmente um comparador de planilhas em Python que eu tinha feito, para ser mais específico, teve uma tarefa que foi dada a mim em meu trabalho que consistia em comparar 2 relatórios de empresas diferentes e ver se as contas batiam, nossa empresa oferece serviços e a outra é uma terceirizada que contratamos, basicamente o programa lê as 2 planilhas e compara ambas, se o valor da célula for igual, vai pintar ela de amarelo, todos os resultados são salvos em uma nova planilha.
+
+**Thoughts:** Bom, pretendo ir para casa amanhã mesmo, então vou poder voltar a programar normalmente kkkkk, um dia o descanso tem que acabar né, enfim, dia tranquilo sem muita coisa.
+
+**Link to work:** [Comparador de Planilhas](https://github.com/PJJunio/vollmed-api)
