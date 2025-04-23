@@ -88,3 +88,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Thoughts:** Bom, pretendo ir para casa amanhã mesmo, então vou poder voltar a programar normalmente kkkkk, um dia o descanso tem que acabar né, enfim, dia tranquilo sem muita coisa.
 
 **Link to work:** [Comparador de Planilhas](https://github.com/PJJunio/comparador-de-planilhas)
+
+### Day 10:
+
+**Today's Progress**: Olha e aqui, hoje fiz bastante coisa, iniciei um projetinho pessoal de uma api que gerencia gastos, estudei um pouco mais sobre JWT e dei uma fixada em alguns conteúdos que eu estava achando meio fraco, não foi muita coisa, mas comparado com o feriado, ta mais do que bom.
+
+**Thoughts:** Bom, eu meio que furei um dia, mas foi mais porque eu esqueci de postar mesmo kkkk, eu fui dormir achandoq que eu já tinha postado a log diaria e acabei não postando, mas infelizmente acabei furando 1 dia, entao, vamos adicionar mais um dia ao contador, ao inves de 100 vão ser 101 agora kkkk, enfim, até amanã com outra log.
