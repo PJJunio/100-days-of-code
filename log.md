@@ -94,3 +94,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Olha e aqui, hoje fiz bastante coisa, iniciei um projetinho pessoal de uma api que gerencia gastos, estudei um pouco mais sobre JWT e dei uma fixada em alguns conteúdos que eu estava achando meio fraco, não foi muita coisa, mas comparado com o feriado, ta mais do que bom.
 
 **Thoughts:** Bom, eu meio que furei um dia, mas foi mais porque eu esqueci de postar mesmo kkkk, eu fui dormir achandoq que eu já tinha postado a log diaria e acabei não postando, mas infelizmente acabei furando 1 dia, entao, vamos adicionar mais um dia ao contador, ao inves de 100 vão ser 101 agora kkkk, enfim, até amanã com outra log.
+
+### Day 11:
+
+**Today's Progress**: Olá, hoje eu fiquei praticando um pouco de .env, ver como funciona e como usar, ainda não entendi muito bem mas ainda estou na luta, amanhã pretendo deixar isso um pouco de lado e me aprofundar em JWT e Spring Security, estou precisando mesmo reforçar essas matérias.
+
+**Thoughts:** Bom, hoje não teve muita coisa,  dia acabou sendo corrido e eu não estava me sentindo muito bem depois de uma viagem para fazer alguns atendimentos, não foi longa mas a estrada tinha muitas curvas e acabei ficando muito enjoado.
