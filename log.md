@@ -100,3 +100,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Olá, hoje eu fiquei praticando um pouco de .env, ver como funciona e como usar, ainda não entendi muito bem mas ainda estou na luta, amanhã pretendo deixar isso um pouco de lado e me aprofundar em JWT e Spring Security, estou precisando mesmo reforçar essas matérias.
 
 **Thoughts:** Bom, hoje não teve muita coisa,  dia acabou sendo corrido e eu não estava me sentindo muito bem depois de uma viagem para fazer alguns atendimentos, não foi longa mas a estrada tinha muitas curvas e acabei ficando muito enjoado.
+
+### Day 12:
+
+**Today's Progress**: Vou resumir porque já está muito atrasado, hoje eu dei uma estudada sobre retorno de requisições e dei uma alterada em um código para estudos que eu tenho, depois disso comecei a tentar resolver um problema que eu estava tendo com uma .env que o flyway não queria ler as variáveis de ambiente, consegui resolver antes das 00.
+
+**Thoughts:** Escrevi essa log correndo então tá muito resumido, acabei perdendo a noção do tempo resolvendo o problema kkkk
