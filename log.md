@@ -106,3 +106,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Vou resumir porque já está muito atrasado, hoje eu dei uma estudada sobre retorno de requisições e dei uma alterada em um código para estudos que eu tenho, depois disso comecei a tentar resolver um problema que eu estava tendo com uma .env que o flyway não queria ler as variáveis de ambiente, consegui resolver antes das 00.
 
 **Thoughts:** Escrevi essa log correndo então tá muito resumido, acabei perdendo a noção do tempo resolvendo o problema kkkk
+
+### Day 13:
+
+**Today's Progress**: Olá novamente, hoje eu fiquei em um projeto pessoal de um app de controle financeiro, fiz as variaveis, dtos e repositories para adiantar e amanha ja pretendo fazer os endpoints da api, aprendi sobre migrations do flyway porque eu ainda estava com algumas duvidas e resumidamente foi isso.
+
+**Thoughts:** O dia foi bem interessante, fiz alguns commits, pull requests e etc junto com bastante codigo, estou gostando de como esta ficando a minha api pessoal.
