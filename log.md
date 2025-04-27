@@ -112,3 +112,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Olá novamente, hoje eu fiquei em um projeto pessoal de um app de controle financeiro, fiz as variaveis, dtos e repositories para adiantar e amanha ja pretendo fazer os endpoints da api, aprendi sobre migrations do flyway porque eu ainda estava com algumas duvidas e resumidamente foi isso.
 
 **Thoughts:** O dia foi bem interessante, fiz alguns commits, pull requests e etc junto com bastante codigo, estou gostando de como esta ficando a minha api pessoal.
+
+### Day 14:
+
+**Today's Progress**: Hoje tirei algumas duvidas de como relacionar duas tabelas do banco de dados, mas não me aprofundei, codei um pouco na minha API privada para não perder o costume e fui distrair a cabeça.
+
+**Thoughts:** Hoje não fiz muita coisa, tive que fazer atendimentos no meu trabalho das 11 às 20, os locais eram roças então demorava um pouco para chegar, bom, amanha tô com o dia livre.
