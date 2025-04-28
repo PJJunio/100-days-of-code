@@ -118,3 +118,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Hoje tirei algumas duvidas de como relacionar duas tabelas do banco de dados, mas não me aprofundei, codei um pouco na minha API privada para não perder o costume e fui distrair a cabeça.
 
 **Thoughts:** Hoje não fiz muita coisa, tive que fazer atendimentos no meu trabalho das 11 às 20, os locais eram roças então demorava um pouco para chegar, bom, amanha tô com o dia livre.
+
+### Day 15:
+
+**Today's Progress**: Hoje eu dei continuidade a minha API pessoal, aprendi a relacionar uma tabela a outra por meio de uma chave estrangeira, consegui implementar o que eu queria em minha API, ainda estou trabalhando nela mas logo logo acredito que vou finalizar e quando eu terminar vou voltar a estudar sobre segurança.
+
+**Thoughts:** Bom, o dia de hoje foi interessante, consegui aprender bastante coisa e colocar me pratica, mas preciso treinar para fixar esse conhecimento.
