@@ -124,3 +124,10 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Hoje eu dei continuidade a minha API pessoal, aprendi a relacionar uma tabela a outra por meio de uma chave estrangeira, consegui implementar o que eu queria em minha API, ainda estou trabalhando nela mas logo logo acredito que vou finalizar e quando eu terminar vou voltar a estudar sobre segurança.
 
 **Thoughts:** Bom, o dia de hoje foi interessante, consegui aprender bastante coisa e colocar me pratica, mas preciso treinar para fixar esse conhecimento.
+
+
+### Day 16:
+
+**Today's Progress**: Bom, eu sei que eu não postei nada ontem, mas foi porque caiu um temporal aqui em casa e acabou entrando agua, mas enfim, +1 no contador de dias, enfim, o dia de hoje foi bem legal, não tive quase nada de codigo mas eu finalmente iniciei meu curso de DesenvolvimentoWeb, bom, hoje foi a primeira aula, o professor falou sobre coisas básicas nessa primeira aula, apenas sobre o que é a internet, sua historia e etc, e finalmente consegui um notebook, os organizadores do curso disponibilizaram para fazer as aulas, então, sem mais desculpas para furar quando não estou em casa kkkk.
+
+**Thoughts:** O dia foi legal, conheci um pessoal novo e inturmei com os professores e cordenadores do curso, acredito que dei uma boa primeira impressão para eles, estou ansioso para a proxima aula que vai ser sexta-feira (02/05/25), vamos falar sobre algoritimos.
