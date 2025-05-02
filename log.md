@@ -137,3 +137,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Hoje eu estudei sobre SpringSecurity, como funciona, funções e etc, mas acabei me envolvendo um bug quando fui implementar o UUID externo em meu projeto, fiquei em torno de 2 horas resolvendo esse problema, mas consegui absorver muita coisa com isso.
 
 **Thoughts:** A intenção hoje era focar 100% em spring security e JWT, mas acabei me envolvendo em uma coisa totalmente diferente kkkk, mas deu certo, não me arrependo do resultado final.
+
+### Day 18:
+
+**Today's Progress**: Tirei o dia de hoje para para implementar algumas coisas no código, arrumar alguns endpoints, revisar algumas coisas e assistir algumas vídeo aulas, não me aprofundei muito, preferi descansar e ficar tranquilo.
+
+**Thoughts:** Decidi tirar o dia para descansar mesmo, dormir e ficar tranquilo, fazer afazeres de casa e etc, não fiz muita coisa mas amanhã tenho muita coisa para fazer kkkkk.
