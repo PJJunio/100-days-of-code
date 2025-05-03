@@ -143,3 +143,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Tirei o dia de hoje para para implementar algumas coisas no código, arrumar alguns endpoints, revisar algumas coisas e assistir algumas vídeo aulas, não me aprofundei muito, preferi descansar e ficar tranquilo.
 
 **Thoughts:** Decidi tirar o dia para descansar mesmo, dormir e ficar tranquilo, fazer afazeres de casa e etc, não fiz muita coisa mas amanhã tenho muita coisa para fazer kkkkk.
+
+### Day 19:
+
+**Today's Progress**: Hoje não teve muito código, para falar a verdade nesse exato momento eu estou codando, mas não vem muito ao caso, hoje foi mais um dia do meu curso, como todo inicio foi bem básco, explicaram o que é lógica de programação, algoritimos, linguagens de alto e baixo nivel, etc, coisas bem básicas mesmo, foi interessante rever esses conceitos novamente para fixar um pouco mais o conhecimento.
+
+**Thoughts:** O dia foi bem tranquilo, sem muitas complicações, conteúdos simples e etc, espero que dê uma animada mais para frente kkk.
