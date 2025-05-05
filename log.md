@@ -155,3 +155,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Hoje dei uma estudada básica apenas, por conta do curso eu revisei um pouco de algoritimos e web,sem muitas coisas complicadas, preferi descansar e aproveitar o final de semana.
 
 **Thoughts:** Mas no final de tudo, quem disse que vou dormir agora? kkkk vou estudar python para um projeto, bom, vejo vocês amanhã.
+
+### Day 20:
+
+**Today's Progress**: Dia 20 em, finalmente, bom, tive a notícia que vamos mudar o projeto para Python e não estou triste por isso, e sim feliz porque Python e muito mais fácil, por mais que eu ache mais sem graça que o Java, enfim, hoje eu fui ver como o Python funcionava, variáveis, funções, POO, etc. Eu já tinha uma noção de como era o Python porque eu já fiz algumas coisas nessa linguagem, então foi bem tranquilo, bom, acredito que vai dar tudo certo.
+
+**Thoughts:** Olha, quem diria, dia 20 já, enfim, depois de muito tempo usando apenas PC de mesa, vi finalmente a praticidade de usar um notebook, fui para a casa dos meus pais esse final de semana e coloquei ele na mochila para dar uma estudada na casa deles, e como foi? Ótimo, eu fui para uma bancada na área de churrasco da casa deles e fiquei bem tranquilo la codando e assistindo aulas, a experiência foi ótima e com certeza vou repetir mais vezes.
