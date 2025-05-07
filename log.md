@@ -161,3 +161,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Dia 20 em, finalmente, bom, tive a notícia que vamos mudar o projeto para Python e não estou triste por isso, e sim feliz porque Python e muito mais fácil, por mais que eu ache mais sem graça que o Java, enfim, hoje eu fui ver como o Python funcionava, variáveis, funções, POO, etc. Eu já tinha uma noção de como era o Python porque eu já fiz algumas coisas nessa linguagem, então foi bem tranquilo, bom, acredito que vai dar tudo certo.
 
 **Thoughts:** Olha, quem diria, dia 20 já, enfim, depois de muito tempo usando apenas PC de mesa, vi finalmente a praticidade de usar um notebook, fui para a casa dos meus pais esse final de semana e coloquei ele na mochila para dar uma estudada na casa deles, e como foi? Ótimo, eu fui para uma bancada na área de churrasco da casa deles e fiquei bem tranquilo la codando e assistindo aulas, a experiência foi ótima e com certeza vou repetir mais vezes.
+
+### Day 21:
+
+**Today's Progress**: Hoje foi dia de curso, como sempre fui para a outra cidade participar, na aula de hoje ensinaram lógica de programação com portugol, o básico de sempre, mas o professor já falou para pesquisarmos por fora pois iriamos ficar mais avançados nas proximas aulas, usando linguagens mesmo, bom, por mais que esteja básico agora, o ritimo do curso está bem acelerado então acredito que logo logo vou estar fazendo alguns projetos legais.
+
+**Thoughts:** Hoje foi bem legal, interagi com o pessoal que senta ao meu lado e dei algumas sugestões para as atividades deles, batemos um papo e etc..
