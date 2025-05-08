@@ -167,3 +167,9 @@ bati cabeça para aprender e resolver alguns bugs, mas finalmente terminei, só 
 **Today's Progress**: Hoje foi dia de curso, como sempre fui para a outra cidade participar, na aula de hoje ensinaram lógica de programação com portugol, o básico de sempre, mas o professor já falou para pesquisarmos por fora pois iriamos ficar mais avançados nas proximas aulas, usando linguagens mesmo, bom, por mais que esteja básico agora, o ritimo do curso está bem acelerado então acredito que logo logo vou estar fazendo alguns projetos legais.
 
 **Thoughts:** Hoje foi bem legal, interagi com o pessoal que senta ao meu lado e dei algumas sugestões para as atividades deles, batemos um papo e etc..
+
+### Day 22:
+
+**Today's Progress**: Hoje eu aprofundei mais em FastAPI, vi sobre Union e Opitional, achei essas funcionalidades bem interessantes para projetos futuros, também ví sobre a importância de como mostrar o codigo após a requisição é essencial para uma melhor visualização e organização da API.
+
+**Thoughts:** Hoje estudei bastante, mas acredito que dava para revisar mais conteúos e fixar alguns, amanhã é mais uma aula do curso, de acordo com o prof vamos mexer com github, ensinar o básico da plataforma, pelo rítimo do curso eu acredito que não vá demorar para as coisas esquentarem e ficarem interessantes.
